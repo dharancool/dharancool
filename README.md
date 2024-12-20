@@ -1,6 +1,3 @@
-<h3 align="center">AI ML Stan| Diving into the world of Deep Learning| Focus on Data|</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/564x/63/77/16/637716721627fbdfc64dfc6171acaad8.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharancool&label=Profile%20views&color=0e75b6&style=flat" alt="dharancool" /> </p>
 
 <p align="left"> </p>
